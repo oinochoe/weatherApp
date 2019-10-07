@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     justifyContent: "center"
   },
   temp: {
-    fontSize: 44,
+    fontSize: 48,
     backgroundColor: "transparent",
     marginBottom: 24,
     fontFamily: "bmjua"
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     padding: 25
   },
   title: {
-    fontSize: 38,
+    fontSize: 48,
     backgroundColor: "transparent",
     marginBottom: 150,
     fontFamily: "bmjua"

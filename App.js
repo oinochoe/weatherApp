@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     flex: 1
   },
   loadingText: {
-    fontSize: 28,
+    fontSize: 48,
     marginBottom: 100
   }
 });
