@@ -20,7 +20,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         {isLoaded && this.state.fontLoaded ? (
-          <Weather style={{ fontFamily: "bmjua", fontSize: 56 }} />
+          <Weather style={{ fontFamily: "bmjua", fontSize: 58 }} />
         ) : (
           <View style={styles.loading}>
             <LinearGradient
